@@ -1,0 +1,76 @@
+{
+"constellation" : [
+    {
+        "Name":"Aries",
+        "birthdates":"March 21 – April 19" ,
+        "ProfileImage": "Aries.jpg"
+    },
+
+    {
+        "Name":"Taurus",
+        "birthdates":"April 20 – May 20" ,
+        "ProfileImage": "Taurus.jpg"
+    },
+
+    {
+        "Name":"Gemini",
+        "birthdates":"May 21 – June 20" ,
+        "ProfileImage": "Gemini.jpg"
+    },
+
+    {
+        "Name":"Cancer",
+        "birthdates":"June 21 – July 22" ,
+        "ProfileImage": "Cancer.jpg"
+    },
+
+    {
+        "Name":"Leo",
+        "birthdates":"July 23 – August 22" ,
+        "ProfileImage": "Leo.jpg"
+    },
+
+    {
+        "Name":"Virgo",
+        "birthdates":"August 23 – September 22" ,
+        "ProfileImage": "Virgo.jpg"
+    },
+
+    {
+        "Name":"Libra",
+        "birthdates":"September 23 – October 22" ,
+        "ProfileImage": "Libra.jpg"
+    },
+
+    {
+        "Name":"Scorpio",
+        "birthdates":"October 23 – November 21" ,
+        "ProfileImage": "Scorpio.jpg"
+    },
+
+    {
+        "Name":"Sagittarius",
+        "birthdates":"November 22 – December 21" ,
+        "ProfileImage": "Sagittarius.jpg"
+    },
+
+    {
+        "Name":"Capricorn",
+        "birthdates":"December 22 – January 19" ,
+        "ProfileImage": "Capricorn.jpg"
+    },
+
+    {
+        "Name":"Aquarius",
+        "birthdates":"January 20 – February 18" ,
+        "ProfileImage": "Aquarius.jpg"
+    },
+
+    {
+        "Name":"Pisces",
+        "birthdates":"February 19 – March 20" ,
+        "ProfileImage": "Pisces.jpg"
+    }
+
+]
+}
